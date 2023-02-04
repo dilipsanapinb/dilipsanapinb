@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Node.js, MongoDB, Express, Javascript**
 
-- 📫 How to reach me **dilipinbsanap@gmail.om**
+- 📫 How to reach me **dilipinbsanap@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1WjiNTDFlq_DJtbSvFTw0q7x-uDC_U4D9](https://drive.google.com/drive/folders/1WjiNTDFlq_DJtbSvFTw0q7x-uDC_U4D9)
 
