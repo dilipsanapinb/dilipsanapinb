@@ -12,8 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dilipsanapinb/dilipsanapinb.github.io](https://github.com/dilipsanapinb/dilipsanapinb)
 
-- 📝 I regularly write articles on 
-
 - 💬 Ask me about **Node.js, MongoDB, Express, Javascript**
 
 - 📫 How to reach me **dilipinbsanap@gmail.om**
