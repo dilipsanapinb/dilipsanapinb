@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dilipsanapinb/dilipsanapinb.github.io](https://github.com/dilipsanapinb/dilipsanapinb.github.io)
+- 👨‍💻 All of my projects are available at [https://github.com/dilipsanapinb/dilipsanapinb.github.io](https://github.com/dilipsanapinb/dilipsanapinb)
 
-- 📝 I regularly write articles on [https://www.pratilipi.com/](https://www.pratilipi.com/)
+- 📝 I regularly write articles on 
 
 - 💬 Ask me about **Node.js, MongoDB, Express, Javascript**
 
