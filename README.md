@@ -1,4 +1,4 @@
-[![MasterHead](https://www.sevenstarwebsolutions.com/wp-content/uploads/2018/02/nodejs.jpg)
+![MasterHead](https://www.sevenstarwebsolutions.com/wp-content/uploads/2018/02/nodejs.jpg)
 <h1 align="center">Hi 👋, I'm Dilip Sanap</h1>
 <h3 align="center">Detail-oriented Full Stack Web Developer skilled in Node.js.</h3>
 <img align="right" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
