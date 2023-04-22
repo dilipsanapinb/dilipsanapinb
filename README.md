@@ -1,6 +1,6 @@
 ![MasterHead](https://www.sevenstarwebsolutions.com/wp-content/uploads/2018/02/nodejs.jpg)
 <h1 align="center">Hi 👋, I'm Dilip Sanap</h1>
-<h3 align="center">Detail-oriented Full Stack Web Developer skilled in Node.js.</h3>
+<h3 align="center">Detail-oriented Full Stack Web Developer skilled in HTML, CSS, JavaScript, Node.js,Express.js, MOngoDB, SQL, React.js.</h3>
 <img align="right" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilipsanapinb&label=Profile%20views&color=0e75b6&style=flat" alt="dilipsanapinb" /> </p>
 
@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Node.js**
 - 👨‍💻 All of my projects are available at [https://github.com/dilipsanapinb](https://github.com/dilipsanapinb)
 - - 📝 My Portfolio Link [https://dilipsanapinb.github.io/](https://dilipsanapinb.github.io/)
-- 💬 Ask me about ** HML,CSS,JavascriptNode.js, MongoDB, Express, **
+- 💬 Ask me about ** HML,CSS,Javascript,Node.js, MongoDB, Express **
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1WjiNTDFlq_DJtbSvFTw0q7x-uDC_U4D9](https://drive.google.com/drive/folders/1WjiNTDFlq_DJtbSvFTw0q7x-uDC_U4D9)
 
 <h3 align="left">Connect with me:</h3>
