@@ -23,7 +23,7 @@ to leverage Generative AI and master new tech stacks.</h3>
 
 - 📫 How to reach me **dilipsanap028@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iMwRectr3nXpvAKyQmoYMjN_eiR8-ZGt/view?usp=sharing](https://drive.google.com/file/d/1iMwRectr3nXpvAKyQmoYMjN_eiR8-ZGt/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1iMwRectr3nXpvAKyQmoYMjN_eiR8-ZGt/view?usp=sharing)
 
 ## Connect with me:
 
