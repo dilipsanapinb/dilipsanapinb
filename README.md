@@ -6,7 +6,9 @@ backend solutions, optimizing code, and ensuring high
 performance and security. Skilled in problem-solving and
 collaboration across teams. Quick learner and adaptable
 to leverage Generative AI and master new tech stacks.</h3>
+
 <img align="center" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilipsanapinb&label=Profile%20views&color=0e75b6&style=flat" alt="dilipsanapinb" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilipsanapinb" alt="dilipsanapinb" /></a> </p>
@@ -16,7 +18,6 @@ to leverage Generative AI and master new tech stacks.</h3>
 - 🌱 I’m currently learning **React.js and Python**
 
 - - 📝 My Portfolio Link [https://dilipsanapinb.github.io/](https://dilipsanapinb.github.io/)
-
 
 - 💬 Ask me about **Node.js, React.js, MongoDB, SQL, Express, Javascript, HTML, CSS**
 
