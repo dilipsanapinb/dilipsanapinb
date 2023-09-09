@@ -15,9 +15,8 @@ to leverage Generative AI and master new tech stacks.</h3>
 
 - 🌱 I’m currently learning **React.js and Python**
 
-- 👨‍💻 All of my projects are available at [https:dilipsanapinb.github.io](https:dilipsanapinb.github.io)
+- - 📝 My Portfolio Link [https://dilipsanapinb.github.io/dilipsanap.github.io/](https://dilipsanapinb.github.io/dilipsanap.github.io/)
 
-- - 📝 My Portfolio Link [https://github.com/dilipsanapinb/dilipsanap.github.io](https://github.com/dilipsanapinb/dilipsanap.github.io)
 
 - 💬 Ask me about **Node.js, React.js, MongoDB, SQL, Express, Javascript, HTML, CSS**
 
