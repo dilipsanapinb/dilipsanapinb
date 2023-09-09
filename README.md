@@ -1,6 +1,11 @@
 ![MasterHead](https://www.sevenstarwebsolutions.com/wp-content/uploads/2018/02/nodejs.jpg)
 <h1 align="center">Hi 👋, I'm Dilip Sanap</h1>
-<h3 align="center">Detail-oriented Full Stack Web Developer skilled in Node.js.</h3>
+<h3 align="center">Experienced Node.js Developer proficient in MongoDB,
+Express.js, and JavaScript. Adept at crafting efficient
+backend solutions, optimizing code, and ensuring high
+performance and security. Skilled in problem-solving and
+collaboration across teams. Quick learner and adaptable
+to leverage Generative AI and master new tech stacks.</h3>
 <img align="right" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilipsanapinb&label=Profile%20views&color=0e75b6&style=flat" alt="dilipsanapinb" /> </p>
 
