@@ -1,4 +1,4 @@
-[![MasterHead](https://www.sevenstarwebsolutions.com/wp-content/uploads/2018/02/nodejs.jpg)
+![MasterHead](https://www.sevenstarwebsolutions.com/wp-content/uploads/2018/02/nodejs.jpg)
 <h1 align="center">Hi 👋, I'm Dilip Sanap</h1>
 <h3 align="center">Detail-oriented Full Stack Web Developer skilled in Node.js.</h3>
 <img align="right" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
@@ -12,13 +12,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dilipsanapinb/dilipsanapinb.github.io](https://github.com/dilipsanapinb/dilipsanapinb.github.io)
 
-- 📝 I regularly write articles on [https://www.pratilipi.com/](https://www.pratilipi.com/)
+- - 📝 My Portfolio Link [https://github.com/dilipsanapinb/dilipsanap.github.io](https://github.com/dilipsanapinb/dilipsanap.github.io)
 
-- 💬 Ask me about **Node.js, MongoDB, Express, Javascript**
+- 💬 Ask me about **Node.js, React.js, MongoDB, SQL, Express, Javascript, HTML, CSS**
 
-- 📫 How to reach me **dilipsanap028@gmail.om**
+- 📫 How to reach me **dilipsanap028@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1WjiNTDFlq_DJtbSvFTw0q7x-uDC_U4D9](https://drive.google.com/drive/folders/1WjiNTDFlq_DJtbSvFTw0q7x-uDC_U4D9)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1iMwRectr3nXpvAKyQmoYMjN_eiR8-ZGt/view?usp=sharing](https://drive.google.com/file/d/1iMwRectr3nXpvAKyQmoYMjN_eiR8-ZGt/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
