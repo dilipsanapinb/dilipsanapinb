@@ -25,7 +25,7 @@ to leverage Generative AI and master new tech stacks.</h3>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1iMwRectr3nXpvAKyQmoYMjN_eiR8-ZGt/view?usp=sharing](https://drive.google.com/file/d/1iMwRectr3nXpvAKyQmoYMjN_eiR8-ZGt/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/dilipsanap028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilipsanap028" height="30" width="40" /></a>
 <a href="https://fb.com/dilip sanap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dilip sanap" height="30" width="40" /></a>
