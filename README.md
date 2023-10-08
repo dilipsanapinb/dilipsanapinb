@@ -51,6 +51,8 @@ to leverage Generative AI and master new tech stacks.</h3>
 <br/>
 
 ## Github Stats:
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dilipsanapinb&show_icons=true&locale=en" alt="dilipsanapinb" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilipsanapinb&show_icons=true&locale=en&layout=compact" alt="dilipsanapinb" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilipsanapinb&" alt="dilipsanapinb" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilipsanapinb&show_icons=true&locale=en" alt="dilipsanapinb" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilipsanapinb&" alt="dilipsanapinb" /></p>
