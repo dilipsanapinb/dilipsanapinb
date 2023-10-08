@@ -51,9 +51,19 @@ to leverage Generative AI and master new tech stacks.</h3>
 <br/>
 
 ## Github Stats:
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilipsanapinb&layout=donut-vertical)](https://github.com/dilipsanapinb/github-readme-stats)
+ 
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical" alt="Top Languages" />
+</div>
 
+<br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilipsanapinb&show_icons=true&locale=en" alt="dilipsanapinb" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dilipsanapinb&show_icons=true&locale=en" alt="GitHub Stats" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilipsanapinb&" alt="dilipsanapinb" /></p>
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilipsanapinb" alt="GitHub Streak" />
+</div>
