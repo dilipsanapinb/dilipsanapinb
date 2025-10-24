@@ -1,6 +1,6 @@
 ![MasterHead](https://www.sevenstarwebsolutions.com/wp-content/uploads/2018/02/nodejs.jpg)
 <h1 align="center">Hi 👋, I'm Dilip Sanap</h1>
-<h3 align="center">Experienced Full Stack Developer proficient in Node.js,React.js, Next.js, MongoDB,
+<h3 align="center">Experienced Full Stack Developer proficient in Node.js, React.js, Next.js, MongoDB,
 Express.js, and JavaScript,TypeScript, GraphQL, PostgreSQL. Adept at crafting efficient
 backend and frontend solutions, optimizing code, and ensuring high
 performance and security. Skilled in problem-solving and
