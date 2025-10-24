@@ -14,7 +14,7 @@ to leverage Generative AI and master new tech stacks.</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently working on the teck stacks like **MERN Stack with Next.js framework and GraphQL as API Service**
+- 🌱 I’m currently working on the tech stacks like **MERN Stack with Next.js framework and GraphQL as API Service**
 
 - 📝 My Portfolio Link [https://dilipsanap.com/](https://dilipsanap.com/)
 
