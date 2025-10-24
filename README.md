@@ -14,7 +14,7 @@ to leverage Generative AI and master new tech stacks.</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React.js and Python**
+- 🌱 I’m currently working on the teck stacks like **MERN Stack with Next.js framework and GraphQL as API Service**
 
 - 📝 My Portfolio Link [https://dilipsanap.com/](https://dilipsanap.com/)
 
@@ -22,7 +22,7 @@ to leverage Generative AI and master new tech stacks.</h3>
 
 - 📫 How to reach me **dilipsanap028@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1iMwRectr3nXpvAKyQmoYMjN_eiR8-ZGt/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://dilipsanap.com/Dilip-Sanap-Resume.pdf)
 
 ## Connect with me:
 
